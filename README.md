@@ -24,7 +24,6 @@ Job Role level matrix table
 Purpose
 This dashboard helps HR teams:
 Understand why employees leave
-
 Identify high-risk job roles
 
 Improve employee retention strategie
